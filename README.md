@@ -5,7 +5,7 @@
   <a href="https://github.com/seu-usuario">
     <img src="https://img.shields.io/github/followers/seu-usuario?label=Followers&style=social" />
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/eliseu-samulolo-53564230b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
 </p>
