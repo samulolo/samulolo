@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Eliseu Samulolo 👋</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eliseu-samulolo-53564230b/">
