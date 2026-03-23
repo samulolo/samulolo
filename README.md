@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Junior Software Developer
+- 💻 Software Developer
 - 🌱 Currently learning **Web Development** and building **IRS simulator**
 - 🎯 Focused on **clean code & best practices**
 - 🚀 Always improving my skills
