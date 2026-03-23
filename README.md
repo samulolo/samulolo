@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **seuemail@email.com**
+- 📧 Email: eliseusamulolo@hotmail.com
 - 💼 LinkedIn: [Eliseu Samulolo](https://www.linkedin.com/in/eliseu-samulolo-53564230b/)
 
 ---
